@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import seaborn as sns
+import pickle
 
 st.write("# Sales Prediction based on TV, Radio and Newspaper")
 st.write("This app predicts the **Sales** !")
